@@ -138,7 +138,9 @@ async function bootstrap() {
     'http://localhost:3000',
     'http://localhost:19006',
     'http://127.0.0.1:3000',
-    'https://medical-api.onrender.com',
+    'http://10.0.2.2:3000',
+    'https://medical-api-t14f.onrender.com',
+    'https://votre-domaine-frontend.com', // Remplacez par le domaine de votre frontend
   ];
 
   app.enableCors({
